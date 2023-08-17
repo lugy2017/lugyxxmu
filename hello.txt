@@ -9,5 +9,5 @@ hello git
 hello git 66666
 hello git
 hello git
-hello git
-hello git 777777
+hello gi
+hello git master
